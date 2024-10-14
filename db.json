@@ -3,7 +3,7 @@
     {
       "id": 1,
       "name": "Sản phẩm A",
-      "image": "https://picsum.photos/200?random=1",
+      "image": "https://picsum.photos/id/1/200",
       "price": 100000,
       "quantity": 10,
       "description": "Sản phẩm A chất lượng cao, giá hợp lý.",
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "name": "Sản phẩm B",
-      "image": "https://picsum.photos/200?random=2",
+      "image": "https://picsum.photos/id/2/200",
       "price": 150000,
       "quantity": 5,
       "description": "Sản phẩm B mới ra mắt, phù hợp cho nhiều đối tượng.",
@@ -23,7 +23,7 @@
     {
       "id": 3,
       "name": "Sản phẩm C",
-      "image": "https://picsum.photos/200?random=3",
+      "image": "https://picsum.photos/id/3/200",
       "price": 200000,
       "quantity": 8,
       "description": "Sản phẩm C với thiết kế độc đáo và tinh tế.",
@@ -33,7 +33,7 @@
     {
       "id": 4,
       "name": "Sản phẩm D",
-      "image": "https://picsum.photos/200?random=4",
+      "image": "https://picsum.photos/id/4/200",
       "price": 250000,
       "quantity": 12,
       "description": "Sản phẩm D rất được ưa chuộng trên thị trường.",
@@ -43,7 +43,7 @@
     {
       "id": 5,
       "name": "Sản phẩm E",
-      "image": "https://picsum.photos/200?random=5",
+      "image": "https://picsum.photos/id/5/200",
       "price": 300000,
       "quantity": 20,
       "description": "Sản phẩm E chất lượng vượt trội, bảo hành dài hạn.",
@@ -53,7 +53,7 @@
     {
       "id": 6,
       "name": "Sản phẩm F",
-      "image": "https://picsum.photos/200?random=6",
+      "image": "https://picsum.photos/id/6/200",
       "price": 120000,
       "quantity": 15,
       "description": "Sản phẩm F nhỏ gọn, tiện lợi khi sử dụng.",
@@ -63,7 +63,7 @@
     {
       "id": 7,
       "name": "Sản phẩm G",
-      "image": "https://picsum.photos/200?random=7",
+      "image": "https://picsum.photos/id/7/200",
       "price": 350000,
       "quantity": 9,
       "description": "Sản phẩm G thích hợp cho các công việc văn phòng.",
@@ -73,7 +73,7 @@
     {
       "id": 8,
       "name": "Sản phẩm H",
-      "image": "https://picsum.photos/200?random=8",
+      "image": "https://picsum.photos/id/8/200",
       "price": 400000,
       "quantity": 7,
       "description": "Sản phẩm H được đánh giá cao về tính năng.",
@@ -83,7 +83,7 @@
     {
       "id": 9,
       "name": "Sản phẩm I",
-      "image": "https://picsum.photos/200?random=9",
+      "image": "https://picsum.photos/id/9/200",
       "price": 450000,
       "quantity": 6,
       "description": "Sản phẩm I hiện đại và sang trọng.",
@@ -93,7 +93,7 @@
     {
       "id": 10,
       "name": "Sản phẩm J",
-      "image": "https://picsum.photos/200?random=10",
+      "image": "https://picsum.photos/id/10/200",
       "price": 500000,
       "quantity": 18,
       "description": "Sản phẩm J cao cấp với nhiều tính năng ưu việt.",
